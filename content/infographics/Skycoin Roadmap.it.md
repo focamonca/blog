@@ -1,12 +1,12 @@
 +++
-title = "Skycoin Roadmap"
+titolo = "La Roadmap di Skycoin"
 tags = [
     "Roadmap",
-    "Infographics",
+    "Infografiche",
 ]
-date = "2017-08-25"
-categories = [
-    "Infographics",
+data = "2017-08-25"
+categorie = [
+    "Infografiche",
 ]
 +++
 
